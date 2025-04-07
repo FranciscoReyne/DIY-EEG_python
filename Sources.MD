@@ -4,8 +4,8 @@
 
 ### References:
 
-https://www.youtube.com/watch?v=zd4J83I6wFI
-https://github.com/FranciscoReyne/Youtube-Video-Summarizer
+- https://www.youtube.com/watch?v=zd4J83I6wFI
+- https://github.com/FranciscoReyne/Youtube-Video-Summarizer
 
 ---
 
